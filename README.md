@@ -23,7 +23,7 @@ Buffalo Solar has to promise a certain output to the customers when it sells sol
 
 ## Data
 
-<img width="920" alt="image" src="https://github.com/sankalpsaoji98/Snow-Model-Project/assets/26198596/83b9aa44-1035-424a-9ee2-5fa3318b10cd">
+<img width="920" alt="image" src="https://github.com/sankalpsaoji98/Snow-Model-Project/assets/26198596/db238c49-d45b-49b0-a0ca-8f41922247b8">
 
 1) Data is obtained and processed for a year
 2) Information available at an hourly level
