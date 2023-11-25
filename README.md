@@ -13,7 +13,7 @@ Buffalo Solar has to promise a certain output to the customers when it sells sol
 - [Data](#data)
 - [Model](#model)
 - [Results](#results)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgements](#acknowledgements)
 
 ## Software
 1) Heliscope
